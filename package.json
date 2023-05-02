@@ -21,7 +21,7 @@
     "grunt-contrib-uglify": "~5.2.0",
     "grunt-contrib-cssmin": "~5.0.0",
     "grunt-contrib-less": "3.0.0",
-    "grunt-contrib-coffee": "~2.0.0"
+    "grunt-contrib-coffee": "~2.1.0"
   },
   "scripts": {
     "start": "node app.js",
